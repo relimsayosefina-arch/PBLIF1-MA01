@@ -1,5 +1,8 @@
-
 ## Anggota Kelompok
 
-1.Yosefina Pakpahan (ketua)
-2.sovia (anggota)
+| No | Nama | NIM | Peran |
+|----|------|-----|-------|
+| 1 | Yosefina Pakpahan | 3312611062 | Ketua |
+| 2 | Sovia | 3312611061 | Anggota |
+
+
