@@ -5,4 +5,6 @@
 | 1 | Yosefina Pakpahan | 3312611062 | Ketua |
 | 2 | Sovia | 3312611061 | Anggota |
 
+   ## Dokumen
 
+   - [Kebutuhan Fungsional](docs/kebutuhan-fungsional.md)
