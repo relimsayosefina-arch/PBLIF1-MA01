@@ -6,8 +6,8 @@ Proyek PBL Kelompok MA01
 
 | No | Nama | NIM | Peran |
 |----|------|-----|-------|
-| 1 | Nama Yosefina R. Pakpahan | 3312611062 | Ketua |
-| 2 | Nama sovia | 3312611061 | Anggota |
+| 1 |  Yosefina R. Pakpahan | 3312611062 | Ketua |
+| 2 |  sovia | 3312611061 | Anggota |
 
 
 ## Dokumen
