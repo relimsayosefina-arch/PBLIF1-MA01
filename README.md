@@ -16,6 +16,11 @@ tidak memiliki catatan keuangan yang rapi. Aplikasi ini
 dirancang agar pencatatan keuangan menjadi sederhana, cepat, 
 dan mudah ditinjau kembali.
 
+## Tujuan
+
+1. Menyediakan sarana pencatatan pemasukan dan pengeluaran harian bagi mahasiswa.
+2. Memberikan rekapitulasi keuangan agar pengguna dapat memantau kondisi keuangannya.
+3. Membantu membangun kebiasaan mengelola keuangan pribadi.
 
 
    ## Dokumen
