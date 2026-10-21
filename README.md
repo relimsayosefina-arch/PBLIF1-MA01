@@ -22,6 +22,20 @@ dan mudah ditinjau kembali.
 2. Memberikan rekapitulasi keuangan agar pengguna dapat memantau kondisi keuangannya.
 3. Membantu membangun kebiasaan mengelola keuangan pribadi.
 
+## Manfaat
+
+*Manfaat teoritis/ilmiah*
+- Menjadi referensi penerapan perancangan sistem informasi 
+pencatatan keuangan sederhana.
+- Menjadi bahan pembelajaran analisis kebutuhan, perancangan 
+antarmuka, dan pemodelan proses.
+
+*Manfaat praktis*
+- Mahasiswa dapat mencatat dan memantau arus uang secara 
+teratur.
+- Mahasiswa dapat mengetahui total pemasukan, pengeluaran, dan 
+saldo kapan saja.
+
 
    ## Dokumen
 
