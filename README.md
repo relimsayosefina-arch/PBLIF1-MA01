@@ -9,6 +9,15 @@
 | 1 | Yosefina Pakpahan | 3312611062 | Ketua |
 | 2 | Sovia | 3312611061 | Anggota |
 
+## Latar Belakang
+
+Banyak mahasiswa kesulitan mengontrol pengeluaran harian karena 
+tidak memiliki catatan keuangan yang rapi. Aplikasi ini 
+dirancang agar pencatatan keuangan menjadi sederhana, cepat, 
+dan mudah ditinjau kembali.
+
+
+
    ## Dokumen
 
 - [Kebutuhan Fungsional](docs/kebutuhan-fungsional.md)
